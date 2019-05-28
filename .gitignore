@@ -6,3 +6,6 @@
 /obj/Debug
 /.vs/JsonViewer/v16/.suo
 /bin/Debug
+/bin/Release
+/obj/Release
+/JsonViewer.csproj.user
